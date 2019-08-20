@@ -1,4 +1,4 @@
-# minimousemacro
+# Mini Mouse Macro
 Mini Mouse Macro Development Branch
 
 ### AUG 21 2019
